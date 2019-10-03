@@ -1,0 +1,11 @@
+C:\Users\j\codeworks\book-store\bin\Debug\netcoreapp3.0\book-store.exe
+C:\Users\j\codeworks\book-store\bin\Debug\netcoreapp3.0\book-store.deps.json
+C:\Users\j\codeworks\book-store\bin\Debug\netcoreapp3.0\book-store.runtimeconfig.json
+C:\Users\j\codeworks\book-store\bin\Debug\netcoreapp3.0\book-store.runtimeconfig.dev.json
+C:\Users\j\codeworks\book-store\bin\Debug\netcoreapp3.0\book-store.dll
+C:\Users\j\codeworks\book-store\bin\Debug\netcoreapp3.0\book-store.pdb
+C:\Users\j\codeworks\book-store\obj\Debug\netcoreapp3.0\book-store.csprojAssemblyReference.cache
+C:\Users\j\codeworks\book-store\obj\Debug\netcoreapp3.0\book-store.AssemblyInfoInputs.cache
+C:\Users\j\codeworks\book-store\obj\Debug\netcoreapp3.0\book-store.AssemblyInfo.cs
+C:\Users\j\codeworks\book-store\obj\Debug\netcoreapp3.0\book-store.dll
+C:\Users\j\codeworks\book-store\obj\Debug\netcoreapp3.0\book-store.pdb
